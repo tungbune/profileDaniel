@@ -7,12 +7,11 @@ const AboutMe = () => {
         <div className="py-6">
           <h2 className="font-semibold mb-1">Hello! I'm John Doe</h2>
           <p className="text-base leading-6 ">
-           Having been rasied in a solid educational foundation, I have been aware of the indispensible role of education
-          in the transformational advancement of individuals. 
-          Hence, education alignment has been equipped with my personal growth. 
-          Throughout this foundation, I will be able to
-          share the methods and tips to how I could upgrade myself to conquer the high-educational values,
-          standing as large-scale positive messages in community. 
+          Thanks for your visit! 
+          My name is Hoang Tung (Daniel). 
+            This personal portforlio is platform to remark my educational journey.
+            As a learning enthusiast, 
+            I am willing to talk and discuss with you about your personal advancement.
           </p>
         </div>
       </div>
