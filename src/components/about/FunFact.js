@@ -7,9 +7,9 @@ import FunFactCard from "./FunFactCard";
 const FunFact = () => {
   return (
     <div className="px-0 grid grid-cols-2 md:grid-cols-4 pb-10">
-      <FunFactCard icon={<BsTrophyFill />} des="5 Awards Won" />
-      <FunFactCard icon={<SiAntdesign />} des="12 Finished Projects" />
-      <FunFactCard icon={<BiCodeAlt />} des="English teacher VUS" />
+      <FunFactCard icon={<BsTrophyFill />} des="Ernst & Young Entrepreneur Of The Year" />
+      <FunFactCard icon={<SiAntdesign />} des="World Economic Forum's Crystal Award" />
+      <FunFactCard icon={<BiCodeAlt />} des="Financial Times ArcelorMittal Boldness in Business Awards" />
     </div>
   );
 };
