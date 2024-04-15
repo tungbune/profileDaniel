@@ -11,21 +11,15 @@ const Education = () => {
         <ResumeTitle title="Experience" icon={<MdWork />} />
         <ResumeCard
           badge=""
-          title="Web Developer"
-          subTitle="Facebook Inc."
-          des="Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum, itaque ipsa quae!"
+          title="Project Manager"
+          subTitle="Unilever Corporation"
+          des="Oversee planning, execution, and closure of projects, ensuring they meet goals and deadlines.Lead teams, manage resources, and communicate with stakeholders.Identify and balance scope, time, and budget to achieve project success."
         />
         <ResumeCard
-          badge="2011 - 2012"
-          title="Front-end Developer"
-          subTitle="Google Inc."
-          des="Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum, itaque ipsa quae!"
-        />
-        <ResumeCard
-          badge="2009 - 2010"
-          title="Senior Developer"
-          subTitle="ReactBD.com."
-          des="Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum, itaque ipsa quae!"
+          badge="2023 - present"
+          title="Human Resource Manager"
+          subTitle="CP Corporation"
+          des="Manage an organization's workforce.Oversee recruitment, performance management, and employee relations.Developing HR policies, ensuring compliance with labor laws, and facilitating training and development."
         />
       </div>
       <div className="w-full h-full hidden lgl:flex justify-center items-center">
@@ -34,22 +28,26 @@ const Education = () => {
       <div className="col-span-9 md:col-span-4">
         <ResumeTitle title="Education" icon={<GiGraduateCap />} />
         <ResumeCard
-          badge="2012 - 2014"
-          title="North South University"
-          subTitle="Dhaka"
-          des="Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum, itaque ipsa quae!"
+          badge="Sep 2023 - Sep 2025"
+          title="Swinburne University of Techonology"
+          subTitle="HCM city"
+          des="Bachelor of Business Administration | "
         />
         <ResumeCard
-          badge="2015 - 2016"
-          title="Programming Course"
-          subTitle="UK"
-          des="Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum, itaque ipsa quae!"
+          badge="Jan 2024 - Jan 2026"
+          title="Western Sydney University"
+          subTitle="HCM city"
+          des="Bachelor of  Computer Science | "
         />
         <ResumeCard
-          badge="2018 - 2021"
-          title="MERN Stack Developer"
-          subTitle="Dhaka"
-          des="Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum, itaque ipsa quae!"
+          badge="Sep 2027 - Sep 2028"
+          title="University of Toronto"
+          des="Master of Business Analytics | "
+         />
+        <ResumeCard
+          badge="Jan 2029 - Jan 2030"
+          title="University of Mannheim"
+          des="PhD of Business Analytics | " 
         />
       </div>
     </div>
