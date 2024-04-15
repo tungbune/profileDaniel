@@ -15,14 +15,14 @@ const Skills = () => {
         {/* web Design */}
         <div className="py-4">
           <div className="py-3 border-b-[1px] border-zinc-800">
-            <p className="text-base text-textColor -mb-1.5">Web Development</p>
+            <p className="text-base text-textColor -mb-1.5">Project Management</p>
             <span className="w-full bg-zinc-600 h-1 inline-flex relative">
               <span className="w-[95%] h-full absolute top-0 left-0 bg-designColor"></span>
             </span>
           </div>
           {/* web Development */}
           <div className="py-3 border-b-[1px] border-zinc-800">
-            <p className="text-base text-textColor -mb-1.5">Web Design</p>
+            <p className="text-base text-textColor -mb-1.5">Budgeting and Cost Analysis</p>
             <span className="w-full bg-zinc-600 h-1 inline-flex relative">
               <span className="w-[90%] h-full absolute top-0 left-0 bg-designColor"></span>
             </span>
@@ -30,7 +30,7 @@ const Skills = () => {
           {/* Mobile Application */}
           <div className="py-3 border-b-[1px] border-zinc-800">
             <p className="text-base text-textColor -mb-1.5">
-              Mobile Application
+              Enterprise Resource Planning
             </p>
             <span className="w-full bg-zinc-600 h-1 inline-flex relative">
               <span className="w-[85%] h-full absolute top-0 left-0 bg-designColor"></span>
@@ -38,7 +38,7 @@ const Skills = () => {
           </div>
           {/* UI Design */}
           <div className="py-3 border-b-[1px] border-zinc-800">
-            <p className="text-base text-textColor -mb-1.5">UI Design</p>
+            <p className="text-base text-textColor -mb-1.5">Staff and User Training</p>
             <span className="w-full bg-zinc-600 h-1 inline-flex relative">
               <span className="w-[80%] h-full absolute top-0 left-0 bg-designColor"></span>
             </span>
@@ -53,21 +53,21 @@ const Skills = () => {
         {/* English */}
         <div className="py-4">
           <div className="py-3 border-b-[1px] border-zinc-800">
-            <p className="text-base text-textColor -mb-1.5">English</p>
+            <p className="text-base text-textColor -mb-1.5">Vietnamese</p>
             <span className="w-full bg-zinc-600 h-1 inline-flex relative">
               <span className="w-[100%] h-full absolute top-0 left-0 bg-designColor"></span>
             </span>
           </div>
           {/* Hindi */}
           <div className="py-3 border-b-[1px] border-zinc-800">
-            <p className="text-base text-textColor -mb-1.5">Hindi</p>
+            <p className="text-base text-textColor -mb-1.5">English</p>
             <span className="w-full bg-zinc-600 h-1 inline-flex relative">
               <span className="w-[90%] h-full absolute top-0 left-0 bg-designColor"></span>
             </span>
           </div>
           {/* Arabic*/}
           <div className="py-3 border-b-[1px] border-zinc-800">
-            <p className="text-base text-textColor -mb-1.5">Arabic</p>
+            <p className="text-base text-textColor -mb-1.5">Chinese</p>
             <span className="w-full bg-zinc-600 h-1 inline-flex relative">
               <span className="w-[70%] h-full absolute top-0 left-0 bg-designColor"></span>
             </span>
@@ -90,28 +90,28 @@ const Skills = () => {
         {/* web Design */}
         <div className="py-4">
           <div className="py-3 border-b-[1px] border-zinc-800">
-            <p className="text-base text-textColor -mb-1.5">JavaScript</p>
+            <p className="text-base text-textColor -mb-1.5">Software Development</p>
             <span className="w-full bg-zinc-600 h-1 inline-flex relative">
               <span className="w-[95%] h-full absolute top-0 left-0 bg-designColor"></span>
             </span>
           </div>
           {/* web Development */}
           <div className="py-3 border-b-[1px] border-zinc-800">
-            <p className="text-base text-textColor -mb-1.5">Nodejs</p>
+            <p className="text-base text-textColor -mb-1.5">Process Improvement</p>
             <span className="w-full bg-zinc-600 h-1 inline-flex relative">
               <span className="w-[90%] h-full absolute top-0 left-0 bg-designColor"></span>
             </span>
           </div>
           {/* Mobile Application */}
           <div className="py-3 border-b-[1px] border-zinc-800">
-            <p className="text-base text-textColor -mb-1.5">Reactjs</p>
+            <p className="text-base text-textColor -mb-1.5">Leader</p>
             <span className="w-full bg-zinc-600 h-1 inline-flex relative">
               <span className="w-[85%] h-full absolute top-0 left-0 bg-designColor"></span>
             </span>
           </div>
           {/* UI Design */}
           <div className="py-3 border-b-[1px] border-zinc-800">
-            <p className="text-base text-textColor -mb-1.5">TypeScript</p>
+            <p className="text-base text-textColor -mb-1.5">Data set</p>
             <span className="w-full bg-zinc-600 h-1 inline-flex relative">
               <span className="w-[80%] h-full absolute top-0 left-0 bg-designColor"></span>
             </span>
@@ -129,13 +129,13 @@ const Skills = () => {
             <span className="text-designColor text-lg">
               <GiCheckMark />
             </span>
-            Website hosting
+           Scientific esearch
           </li>
           <li className="flex items-center gap-4 text-textColor">
             <span className="text-designColor text-lg">
               <GiCheckMark />
             </span>
-            iOS and android apps
+            CRM (Customer Relationship Management)
           </li>
           <li className="flex items-center gap-4 text-textColor">
             <span className="text-designColor text-lg">
@@ -147,7 +147,7 @@ const Skills = () => {
             <span className="text-designColor text-lg">
               <GiCheckMark />
             </span>
-            Design for print
+            Marketing Automation
           </li>
           <li className="flex items-center gap-4 text-textColor">
             <span className="text-designColor text-lg">
@@ -165,7 +165,7 @@ const Skills = () => {
             <span className="text-designColor text-lg">
               <GiCheckMark />
             </span>
-            Graphics and animations
+           Business Development 
           </li>
           <li className="flex items-center gap-4 text-textColor">
             <span className="text-designColor text-lg">
