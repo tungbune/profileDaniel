@@ -6,31 +6,21 @@ const Sidenav = () => {
     <div className="px-7 py-4">
       <SidenavTitle title="M" subTitle="enu" />
       <ul>
-        <li className="sidenavLi">Blog Page</li>
         <li className="sidenavLi">Portfolio Page</li>
       </ul>
       <SidenavTitle title="P" subTitle="rojects" />
       <ul>
-        <li className="sidenavLi">Web Development</li>
-        <li className="sidenavLi">E-commerce</li>
-        <li className="sidenavLi">Chatting Applications</li>
+        <li className="sidenavLi">H2O statsocial innovation</li>
+        <li className="sidenavLi">SHAPIN</li>
+        <li className="sidenavLi">Brand You and Networking </li>
         <li className="sidenavLi">Portfolio Websites</li>
-        <li className="sidenavLi">Backend Setup</li>
-        <li className="sidenavLi">Amazon Clone</li>
-      </ul>
-      <SidenavTitle title="L" subTitle="atest Posts" />
-      <ul>
-        <li className="sidenavLi">UI & UX Conference at Lviv 2022</li>
-        <li className="sidenavLi">How to become a creative designer</li>
-        <li className="sidenavLi">
-          Designers thoughts about mobile UI templates
-        </li>
-        <li className="sidenavLi">Designer Conference at Florida, USA 2020</li>
+        <li className="sidenavLi">Utilizing SDGs in sustainability assessments of CSR implementations in entrepreneurship</li>
+        <li className="sidenavLi">Aligning student activities with Sustainable Development Goals (SDGs) and Artificial Intelligence (AI) in Vietnam Questionnaire</li>
       </ul>
       <SidenavTitle title="R" subTitle="each Me" />
       <ul>
-        <li className="sidenavLi">+968 24769821</li>
-        <li className="sidenavLi">noor.jsdivs@gmail.com</li>
+        <li className="sidenavLi">0389385378</li>
+        <li className="sidenavLi">hoangtungzz05158@gmail.com</li>
       </ul>
     </div>
   );
