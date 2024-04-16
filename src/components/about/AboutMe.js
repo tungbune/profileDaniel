@@ -19,11 +19,11 @@ const AboutMe = () => {
         <ul className="flex flex-col gap-1">
           <li className="aboutRightLi">
             <span className="aboutRightLiSpan">Age:</span>
-            24
+            19
           </li>
           <li className="aboutRightLi">
             <span className="aboutRightLiSpan">Residence:</span>
-            USA
+            Viet Nam 
           </li>
           <li className="aboutRightLi">
             <span className="aboutRightLiSpan">Freelance:</span>
@@ -31,7 +31,7 @@ const AboutMe = () => {
           </li>
           <li className="aboutRightLi">
             <span className="aboutRightLiSpan">Address:</span>
-            California, USA
+            HCM city, Viet Nam 
           </li>
         </ul>
       </div>
